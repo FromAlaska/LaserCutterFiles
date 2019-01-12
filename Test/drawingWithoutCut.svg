@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="468.10122"
-     inkscape:cy="1534.8404"
+     inkscape:zoom="2.8"
+     inkscape:cx="186.80118"
+     inkscape:cy="1606.6692"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5079"
        cx="27.101912"
-       cy="-126.90418"
+       cy="-127.90418"
        r="5" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -104,15 +104,15 @@
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        r="3.5"
-       cy="-112.27902"
+       cy="-114.27902"
        cx="11.601822"
-       id="circle5255"
+       id="circle5306"
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5257"
+       id="circle5308"
        cx="42.602001"
-       cy="-112.27902"
+       cy="-114.27902"
        r="3.5" />
   </g>
 </svg>
