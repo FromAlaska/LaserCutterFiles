@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="208.55375"
-     inkscape:cy="1584.3114"
+     inkscape:zoom="2"
+     inkscape:cx="190.1685"
+     inkscape:cy="1550.2432"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,25 +95,25 @@
        id="path5083-2"
        cx="11.601822"
        cy="-141.5294"
-       r="3.5" />
+       r="1.75" />
     <circle
-       r="3.5"
        cy="-141.5294"
        cx="42.602001"
        id="circle5190"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="1.75" />
     <circle
-       r="3.5"
        cy="-110.77902"
        cx="11.601822"
        id="circle5329"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="1.75" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle5331"
        cx="42.602001"
        cy="-110.77902"
-       r="3.5" />
+       r="1.75" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.02061058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect842"
@@ -125,9 +125,9 @@
        style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect852"
        width="150"
-       height="10"
+       height="4"
        x="248.01318"
-       y="-131.14806" />
+       y="-128.15422" />
     <circle
        r="5"
        cy="-126.15423"
