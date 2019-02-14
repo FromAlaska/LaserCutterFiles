@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="763.7032"
-     inkscape:cy="1246.2073"
+     inkscape:zoom="1.979899"
+     inkscape:cx="353.87003"
+     inkscape:cy="1418.3651"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,14 +59,38 @@
        id="rect5082"
        width="406.39999"
        height="92"
-       x="24.568451"
+       x="17.794683"
        y="-133.89288" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5640"
        height="62"
-       x="34.395832"
-       y="-118.77383"
+       x="27.794683"
+       y="-117.64205"
        width="386.39999" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5661"
+       cx="47.794674"
+       cy="-130.84288"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5661-3"
+       cx="394.19467"
+       cy="-130.84288"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5661-6"
+       cx="47.794674"
+       cy="-44.942883"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5661-3-3"
+       cx="394.19467"
+       cy="-44.942883"
+       r="1.5" />
   </g>
 </svg>
